@@ -9,7 +9,6 @@ model_ckpt_resume_20epoch/
 train/
 val/
 10epoch_64batchsize_checkpoint-best.pth
-20epoch_128batchsize_checkpoint-best.pth
 resume_20epoch_128batchsize_checkpoint-best.pth
 50epoch_128batchsize_checkpoint-best.pth
 Copy of transfer_learning_tutorial.ipynb
