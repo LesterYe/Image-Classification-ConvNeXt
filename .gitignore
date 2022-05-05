@@ -2,3 +2,16 @@ desktop.ini
 kaggle.json
 test_images_updated/
 training/
+assignment2_2022_training.zip
+model_ckpt_20epoch/
+model_ckpt_50epoch/
+model_ckpt_resume_20epoch/
+train/
+val/
+10epoch_64batchsize_checkpoint-best.pth
+20epoch_128batchsize_checkpoint-best.pth
+resume_20epoch_128batchsize_checkpoint-best.pth
+50epoch_128batchsize_checkpoint-best.pth
+Copy of transfer_learning_tutorial.ipynb
+hymenoptera_data.zip
+image-perception-a2.zip
